@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>formulario</title>
+</head>
+<body>
+	<h1>FORMULARIO DE INSCRIÇÃO</h1>
+	<label for="txtnome">Nome:</label>
+    <input type="text" name="txtnome" id="txtnome" placeholder="digite seu nome">
+     <label for="datanascimento">data de nascimento:</label>
+    <input type ="date" name="nascimento" id="datanascimento">
+
+
+    		<p>Voce estuda em casa?</p>
+
+    		<label for="PW1">sim </label>
+    		<input type="checkbox" name="DISCIPLINA" id="pw1">
+
+    		<label for="quadra">nao </label>
+            <input type="checkbox" name="lugares" id="quadra">
+
+            <label for="biblioteca">um pouco </label>
+            <input type="checkbox" name="DISCIPLINA" id="biblioteca">
+
+             <label for="biblioteca">bastante </label>
+            <input type="checkbox" name="DISCIPLINA" id="biblioteca">
+
+
+
+
+    
